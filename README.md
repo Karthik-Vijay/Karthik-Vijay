@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am a Frontend developer mostly building apps aroung angular.
 
-- 🔭 I’m currently working @ Cognizant. 
-- 🌱 Currently learning VueJs
+- 🔭 Currently working @ Cognizant. 
+- 🌱 Currently expanding knowledge in RxJs and Redux.
 - 👨🏽‍ Projects  
 
      👨🏽‍💻 Typing Speed Test : https://typerpro.com
