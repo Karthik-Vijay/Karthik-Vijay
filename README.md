@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Frontend developer mostly building apps aroung angular.
+### Hi there 👋, I am a Frontend developer mostly building apps around angular.
 
 - 🔭 Currently working @ Cognizant. 
 - 🌱 Currently expanding knowledge in RxJs and Redux.
