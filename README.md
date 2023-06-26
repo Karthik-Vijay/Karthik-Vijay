@@ -2,9 +2,6 @@
 
 - 🔭 Currently working @ Cognizant. 
 - 🌱 Currently expanding knowledge in RxJs and Redux.
-- 👨🏽‍ Projects  
-
-     👨🏽‍💻 Typing Speed Test : https://typerpro.com
 - 📫 Reach out to me at
      <div id="badges">
        <a href="https://www.linkedin.com/in/karthikvijaydev">
