@@ -1,6 +1,6 @@
 ### Hi there 👋, I am a Frontend developer mostly building apps around angular.
 
-- 🔭 Currently working @ Cognizant. 
+- 🔭 Currently working @ Watlow. 
 - 🌱 Currently expanding knowledge in RxJs and Redux.
 - 📫 Reach out to me at
      <div id="badges">
